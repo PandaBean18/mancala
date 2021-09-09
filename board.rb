@@ -1,4 +1,3 @@
-require "byebug"
 class Board
     attr_accessor :cups
 
